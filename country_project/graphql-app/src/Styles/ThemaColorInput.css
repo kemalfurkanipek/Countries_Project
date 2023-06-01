@@ -1,0 +1,13 @@
+.themaColor_group{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.themaColor_label{
+    margin-right: 5px;
+}
+
+.themaColor_picker{
+    border: 0;
+}
